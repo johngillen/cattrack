@@ -1,0 +1,11 @@
+bs4
+pyyaml
+regex
+asyncio
+aiohttp
+numpy
+pandas
+opencv-python
+torch
+torchvision
+requests

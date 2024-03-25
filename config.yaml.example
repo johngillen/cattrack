@@ -1,0 +1,16 @@
+url: "https://example.com"
+breeds:
+  - "Balinese"
+  - "Cornish rex"
+  - "Devon rex"
+  - "Javanese"
+  - "Russian Blue"
+  - "Siamese"
+  - "Siberian"
+  - "Sphynx"
+notify: "user@example.com"
+email:
+  server: "smtp.example.com"
+  port: 25
+  username: "cattrack@example.com"
+  password: "password"
